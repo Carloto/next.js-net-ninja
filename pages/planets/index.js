@@ -13,7 +13,7 @@ export const getStaticProps = async () => {
 const Planets = ({ planets }) => {
   return (
     <div>
-      <h1>All Planets</h1>
+      <h1>All Humans</h1>
       {planets.map(planet => (
         <Link href={'/planets/' + planet.id} key={planet.id}>
           <a className={styles.single}>
