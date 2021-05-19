@@ -9,7 +9,7 @@ const About = () => {
       </Head>
       <div>
         <h1>About</h1>
-        <p>This site presents a list of planets that where conquered by the Aliens.</p>
+        <p>This site presents a list of users that where abducted by the Aliens.</p>
         <p>Earth is safe, for now...</p>
       </div>
     </>

@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Planet List | Home</title>
+        <title>Humans List | Home</title>
         <meta name="keywords" content="planets" />
       </Head>
       <div>
